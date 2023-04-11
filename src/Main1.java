@@ -2,7 +2,6 @@ import java.util.*;
 
 class Main1 {
     private ArrayList<DataZakatFitri> dataWarga;
-
     public static void main(String[] args) throws Exception {
         Main1 Screen = new Main1();
         Screen.inputData();
@@ -14,7 +13,7 @@ class Main1 {
         String jawaban;
         int number = 1;
         do {
-            System.out.println("======= Data Bayar Zakat =====");
+            System.out.println("======= SOAL 1 =====");
             System.out.println("Data Warga ke " + number);
             System.out.print("Nama : ");
             String nama = System.console().readLine();
@@ -48,7 +47,8 @@ class Main1 {
     }
 
     public void cetakData() {
-        System.out.println("Data Warga Penerima Zakat Fitrah");
+        System.out.println("==============================================================");
+        System.out.println("\n\tData Warga Yang Sudah Membayar Zakat");
         System.out.println("==============================================================");
         System.out.println("No\tNama\t\tAlamat\t\tMetode Pembayaran");
         System.out.println("==============================================================");
