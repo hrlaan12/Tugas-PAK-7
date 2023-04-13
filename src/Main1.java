@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.ArrayList;
 
 class Main1 {
     private ArrayList<DataZakatFitri> dataWarga;
@@ -48,7 +48,7 @@ class Main1 {
 
     public void cetakData() {
         System.out.println("==============================================================");
-        System.out.println("\n\tData Warga Yang Sudah Membayar Zakat");
+        System.out.println("\tData Warga Yang Sudah Membayar Zakat");
         System.out.println("==============================================================");
         System.out.println("No\tNama\t\tAlamat\t\tMetode Pembayaran");
         System.out.println("==============================================================");

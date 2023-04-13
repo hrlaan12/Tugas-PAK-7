@@ -1,4 +1,3 @@
-## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
@@ -19,4 +18,23 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 
 Soal PG
-1.
+1.c/e
+2.c
+3.e
+4.e
+5.a
+6.
+7. B
+8. B
+9. C
+10. D
+11. D/B
+12. B
+13. C
+14. C
+15. B
+16. B
+17. B
+18. C
+19. A
+20. D
